@@ -98,6 +98,7 @@ void push()
 
 }
 
+
 void pop()
 {
 	NO* aux = topo;
